@@ -1,3 +1,3 @@
 venv/
-cars_app/cars_app/__pycache__/
-cars_app/cars_app/.env
+car_app/car_app/__pycache__/
+.env
